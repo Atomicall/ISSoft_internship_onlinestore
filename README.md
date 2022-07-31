@@ -1,3 +1,5 @@
+Internship in Java Core / EE Introduction. It consists in creating a semblance of an online store
+
 ## 6. Multithreading
 
 ----
